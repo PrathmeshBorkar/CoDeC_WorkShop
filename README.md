@@ -1,6 +1,11 @@
-# CoDeC_WorkShop
+# CoDeC Workshop Repository
 
-This is the codec worksop part 2 
+Welcome to the GitHub Workshop!
 
-04.04.2025
-16:07 
+This repo is used to demonstrate how to:
+- Initialize a Git repo locally
+- Track changes to files
+- Push to a remote GitHub repository
+- Collaborate with others
+
+Let's Git going! 🚀
