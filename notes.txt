@@ -1,11 +1,15 @@
-# CoDeC Workshop Repository
+Git is a version control system.
+GitHub is a platform for hosting Git repositories.
 
-Welcome to the GitHub Workshop!
+Main concepts:
+- Repository
+- Commit
+- Push / Pull
+- Branch
 
-This repo is used to demonstrate how to:
-- Initialize a Git repo locally
-- Track changes to files
-- Push to a remote GitHub repository
-- Collaborate with others
+# Common Git Commands
 
-Let's Git going! 🚀
+- git init — Initialize a local Git repo
+- git add . — Stage all changes
+- git commit -m "message" — Save a snapshot
+- git push — Upload changes to GitHub
